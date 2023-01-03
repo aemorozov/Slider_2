@@ -1,1 +1,2 @@
-# Создание простого и красивого слайдера для сайта.
+# Simple slider №1
+A simple and beautiful slider for the web-site.
